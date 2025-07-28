@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <span style="background: linear-gradient(45deg, #f13535, #ff7f50, #f13535); -webkit-background-clip: text; color: transparent; animation: gradientShift 3s ease infinite;">
-    👋 Hey! I'm Petri Loots
+     Hey! I'm Petri Loots
   </span>
 </h1>
 
@@ -17,16 +17,6 @@
   <a href="https://github.com/slmey"><img src="https://img.shields.io/badge/GitHub-slmey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/petri-loots-1661b2376/"><img src="https://img.shields.io/badge/LinkedIn-Petri%20Loots-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
----
-
-<details open>
-<summary style="font-size:1.3rem; font-weight:bold;">🧩 About Me</summary>
-
-<p style="font-size: 1.1rem; margin-top: 10px;">
-I am a third-year BCom student at Belgium Campus ITversity with 4+ years of experience in Java, C#, Python, JavaScript, HTML, and CSS. Passionate about leadership, team projects, and pushing my boundaries.
-</p>
-</details>
 
 ---
 
