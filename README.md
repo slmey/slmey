@@ -1,8 +1,13 @@
-#  Hi, I’m Petri Loots
+<p align="center">
+  <img src="https://github.com/slmey/slmey/blob/main/banner.gif" alt="Petri Loots Banner" width="100%" />
+</p>
 
-Pretoria, South Africa || ✉️ p3l00ts@gmail.com  
-🔗 [GitHub](https://github.com/slmey) | 🔗 [LinkedIn](https://www.linkedin.com/in/petri-loots-1661b2376/)
-
+<h1 align="center">👋 Hey there! I'm <span style="color:#f13535">Petri Loots</span></h1>
+<p align="center">
+  🇿🇦 Pretoria, South Africa | 📞 083 513 3809 | ✉️ <a href="mailto:p3l00ts@gmail.com">p3l00ts@gmail.com</a>  
+  <br />
+  <a href="https://github.com/slmey" target="_blank">🐙 GitHub</a> | <a href="https://www.linkedin.com/in/petri-loots-1661b2376/" target="_blank">🔗 LinkedIn</a>
+</p>
 ---
 
 ##  About Me
