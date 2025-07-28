@@ -1,3 +1,29 @@
+<div style="background: #222; padding: 20px; width: 450px; font-family: 'Fira Code', monospace; color: #F7F7F7;">
+  <!-- First typing SVG -->
+  <div id="typing1">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Be+proud+of+your+place+in+the+cosmos" alt="Typing 1" />
+    </a>
+  </div>
+
+  <!-- Second typing SVG -->
+  <div id="typing2" style="margin-top: 10px; opacity: 0;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=It+is+small%2C+and+yet+it+is." alt="Typing 2" />
+    </a>
+  </div>
+</div>
+
+<script>
+  // Show the second typing animation after the first finishes (~5 seconds typing + pause)
+  const typing2 = document.getElementById('typing2');
+
+  // Adjust timeout depending on typing speed & text length, roughly 6.5s here
+  setTimeout(() => {
+    typing2.style.opacity = 1;
+  }, 6500);
+</script>
+
 <p align="center">
   <img src="https://github.com/slmey/slmey/raw/main/banner.gif" alt="Banner" width="100%" />
 </p>
