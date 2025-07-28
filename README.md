@@ -14,16 +14,6 @@
   </div>
 </div>
 
-<script>
-  // Show the second typing animation after the first finishes (~5 seconds typing + pause)
-  const typing2 = document.getElementById('typing2');
-
-  // Adjust timeout depending on typing speed & text length, roughly 6.5s here
-  setTimeout(() => {
-    typing2.style.opacity = 1;
-  }, 6500);
-</script>
-
 <p align="center">
   <img src="https://github.com/slmey/slmey/raw/main/banner.gif" alt="Banner" width="100%" />
 </p>
