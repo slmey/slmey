@@ -1,48 +1,42 @@
-<div style="background: #330b0b; padding: 20px; max-width: 480px; font-family: 'Fira Code', monospace; color: #ffcccc; border-radius: 12px; border: 2px solid #b22222;">
+<div style="background: #2a0d0d; padding: 20px; width: 450px; font-family: 'Fira Code', monospace; color: #ffdddd; border-radius: 12px;">
   <!-- First typing SVG -->
-  <div id="typing1" style="margin-bottom: 12px;">
-    <a href="https://git.io/typing-svg" style="color:#ff6666;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff6666&width=435&lines=Be+proud+of+your+place+in+the+cosmos" alt="Typing 1" />
+  <div id="typing1">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff4d4d&width=435&lines=Be+proud+of+your+place+in+the+cosmos" alt="Typing 1" />
     </a>
   </div>
 
   <!-- Second typing SVG -->
-  <div id="typing2" style="opacity: 0;">
-    <a href="https://git.io/typing-svg" style="color:#ff6666;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff6666&width=435&lines=It+is+small%2C+and+yet+it+is." alt="Typing 2" />
+  <div id="typing2" style="margin-top: 10px; opacity: 0;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff4d4d&width=435&lines=It+is+small%2C+and+yet+it+is." alt="Typing 2" />
     </a>
   </div>
 </div>
 
-<p align="center" style="margin-top: 24px;">
-  <img src="https://github.com/slmey/slmey/raw/main/banner.gif" alt="Banner" width="100%" style="border: 4px solid #cc2222; border-radius: 8px;" />
+<p align="center">
+  <img src="https://github.com/slmey/slmey/raw/main/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center" style="margin-top: 24px;">
-  <span style="background: linear-gradient(45deg, #ff1a1a, #ff4d4d, #ff1a1a); -webkit-background-clip: text; color: transparent; animation: gradientShift 3s ease infinite;">
+<h1 align="center">
+  <span style="background: linear-gradient(45deg, #ff3b3b, #ff6666, #ff3b3b); -webkit-background-clip: text; color: transparent; animation: gradientShift 3s ease infinite;">
      Hey! I'm Petri Loots
   </span>
 </h1>
 
-<p align="center" style="font-size: 1.2rem; margin-top: -0.8rem; color: #ff6666; font-style: italic;">
-  Student Software Engineer & Lifelong Learner
+<p align="center" style="font-size: 1.2rem; margin-top: -1rem; color: #ff4d4d;">
+  <em>Student Software Engineer & Lifelong Learner</em>  
 </p>
 
-<p align="center" style="margin-top: 1rem;">
-  <a href="mailto:p3l00ts@gmail.com" style="margin-right: 12px;">
-    <img src="https://img.shields.io/badge/Email-p3l00ts@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/slmey" style="margin-right: 12px;">
-    <img src="https://img.shields.io/badge/GitHub-slmey-E53E3E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/petri-loots-1661b2376/">
-    <img src="https://img.shields.io/badge/LinkedIn-Petri%20Loots-CC0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <a href="mailto:p3l00ts@gmail.com"><img src="https://img.shields.io/badge/Email-p3l00ts@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/slmey"><img src="https://img.shields.io/badge/GitHub-slmey-E53E3E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/petri-loots-1661b2376/"><img src="https://img.shields.io/badge/LinkedIn-Petri%20Loots-CC0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## <span style="color:#ff3333;">About Me</span>
+##  About Me
 
 I am a third-year student at **Belgium Campus ITversity**, with 4 years of coding experience.  
 Proficient in **Java, C#, Python, JavaScript, HTML, CSS**.  
@@ -51,7 +45,7 @@ I have a strong work ethic and a constant drive to expand my skillset.
 
 ---
 
-## <span style="color:#ff3333;">Experience</span>
+##  Experience
 
 ### College Projects (2023-2025)  
 Throughout my academic career, I have worked on multiple projects and assignments, using various coding languages and creative problem-solving.
@@ -61,7 +55,7 @@ Throughout my academic career, I have worked on multiple projects and assignment
 
 ---
 
-## <span style="color:#ff3333;">Education</span>
+##  Education
 
 - **HTS John Vorster (2018-2022)**  
   Matriculated with an N3 qualification.
@@ -71,7 +65,7 @@ Throughout my academic career, I have worked on multiple projects and assignment
 
 ---
 
-## <span style="color:#ff3333;">Skills</span>
+##  Skills
 
 - Knowledgeable in new technological developments  
 - Effective verbal and written communication  
@@ -84,7 +78,7 @@ Throughout my academic career, I have worked on multiple projects and assignment
 
 ---
 
-## <span style="color:#ff3333;">Activities & Interests</span>
+##  Activities & Interests
 
 - Focused on academic improvement through learning and practical tasks  
 - Personal programming projects to maintain core concepts  
@@ -95,7 +89,7 @@ Throughout my academic career, I have worked on multiple projects and assignment
 
 ---
 
-## <span style="color:#ff3333;">GitHub Stats</span>
+##  GitHub Stats
 
 ![Petri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slmey&show_icons=true&theme=radical&title_color=ff4d4d&icon_color=ff6666&text_color=ff9999)
 
@@ -103,62 +97,30 @@ Throughout my academic career, I have worked on multiple projects and assignment
 
 ---
 
-## <span style="color:#ff3333;">Let's Connect!</span>
+##  Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-slmey-E53E3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slmey)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Petri%20Loots-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petri-loots-1661b2376/)
 
 ---
 
-<p style="color:#ff6666; font-style: italic; text-align: center;">
-  “Striving for excellence and continuous growth in software engineering.”
-</p>
+*“Striving for excellence and continuous growth in software engineering.”*
 
-<script>
-  // Show the second typing animation after the first finishes (~5 seconds typing + pause)
-  const typing2 = document.getElementById('typing2');
-  setTimeout(() => {
-    typing2.style.opacity = 1;
-  }, 6500);
-</script>
 
 <style>
-  @keyframes gradientShift {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
   }
-  span {
-    background-size: 200% 200%;
-    animation: gradientShift 4s ease infinite;
+  50% {
+    background-position: 100% 50%;
   }
-  hr {
-    border: 0;
-    height: 1px;
-    background: linear-gradient(to right, #ff1a1a, #ff4d4d, #ff1a1a);
-    margin: 12px 0;
+  100% {
+    background-position: 0% 50%;
   }
-  h2, h3 {
-    color: #ff4444;
-  }
-  li {
-    color: #ffbbbb;
-  }
-  p, em {
-    color: #ffbbbb;
-  }
-  a {
-    color: #ff4d4d;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-    color: #ff1a1a;
-  }
+}
+span {
+  background-size: 200% 200%;
+  animation: gradientShift 4s ease infinite;
+}
 </style>
