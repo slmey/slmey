@@ -1,13 +1,33 @@
 <p align="center">
-  <img src="https://github.com/slmey/slmey/blob/main/banner.gif" alt="Petri Loots Banner" width="100%" />
+  <img src="https://github.com/slmey/slmey/raw/main/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hey there! I'm <span style="color:#f13535">Petri Loots</span></h1>
-<p align="center">
-  🇿🇦 Pretoria, South Africa | 📞 083 513 3809 | ✉️ <a href="mailto:p3l00ts@gmail.com">p3l00ts@gmail.com</a>  
-  <br />
-  <a href="https://github.com/slmey" target="_blank">🐙 GitHub</a> | <a href="https://www.linkedin.com/in/petri-loots-1661b2376/" target="_blank">🔗 LinkedIn</a>
+<h1 align="center">
+  <span style="background: linear-gradient(45deg, #f13535, #ff7f50, #f13535); -webkit-background-clip: text; color: transparent; animation: gradientShift 3s ease infinite;">
+    👋 Hey! I'm Petri Loots
+  </span>
+</h1>
+
+<p align="center" style="font-size: 1.2rem; margin-top: -1rem;">
+  <em>Student Software Engineer & Lifelong Learner</em>  
 </p>
+
+<p align="center">
+  <a href="mailto:p3l00ts@gmail.com"><img src="https://img.shields.io/badge/Email-p3l00ts@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/slmey"><img src="https://img.shields.io/badge/GitHub-slmey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/petri-loots-1661b2376/"><img src="https://img.shields.io/badge/LinkedIn-Petri%20Loots-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+<details open>
+<summary style="font-size:1.3rem; font-weight:bold;">🧩 About Me</summary>
+
+<p style="font-size: 1.1rem; margin-top: 10px;">
+I am a third-year BCom student at Belgium Campus ITversity with 4+ years of experience in Java, C#, Python, JavaScript, HTML, and CSS. Passionate about leadership, team projects, and pushing my boundaries.
+</p>
+</details>
+
 ---
 
 ##  About Me
