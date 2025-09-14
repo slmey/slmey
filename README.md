@@ -33,8 +33,11 @@
   <a href="https://github.com/slmey" style="margin-right: 12px;">
     <img src="https://img.shields.io/badge/GitHub-slmey-E53E3E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/petri-loots-1661b2376/">
+  <a href="https://www.linkedin.com/in/petri-loots-1661b2376/" style="margin-right: 12px;">
     <img src="https://img.shields.io/badge/LinkedIn-Petri%20Loots-CC0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://industryconnect.belgiumcampus.ac.za/sites/s600663/">
+    <img src="https://img.shields.io/badge/My%20Website-Petri%20Loots%20--%20Computing%20Student%20%26%20Developer-ff3333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website"/>
   </a>
 </p>
 
@@ -104,7 +107,8 @@ Throughout my academic career, I have worked on multiple projects and assignment
 ## <span style="color:#ff3333;">Let's Connect!</span>
 
 [![GitHub](https://img.shields.io/badge/GitHub-slmey-E53E3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slmey)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Petri%20Loots-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petri-loots-1661b2376/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Petri%20Loots-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petri-loots-1661b2376/)  
+[![My Website](https://img.shields.io/badge/My%20Website-Petri%20Loots%20--%20Computing%20Student%20%26%20Developer-ff3333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://industryconnect.belgiumcampus.ac.za/sites/s600663/)
 
 ---
 
