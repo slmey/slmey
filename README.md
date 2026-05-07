@@ -233,11 +233,12 @@ Currently employed as an Intern UI developer at Pinkmatter Solutions
 ## <span style="color:#ff3333;">☄️ GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P3L-sym&show_icons=true&theme=radical&title_color=ff4d4d&icon_color=ff6666&text_color=ff9999&bg_color=0d0002&border_color=b22222" />
+  <img src="https://streak-stats.demolab.com/?user=P3L-sym&theme=radical&background=0d0002&border=b22222&stroke=ff4d4d&ring=ff3333&fire=ff6666&currStreakNum=ff9999&sideNums=ff9999&currStreakLabel=ff4d4d&sideLabels=ff6666&dates=ff9999" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3L-sym&layout=compact&theme=radical&title_color=ff4d4d&text_color=ff9999&bg_color=0d0002&border_color=b22222" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P3L-sym&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P3L-sym&theme=radical" />
 </p>
 
 <div align="center">
