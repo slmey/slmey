@@ -102,11 +102,9 @@
 ## <span style="color:#ff3333;">🪐 About Me</span>
 
 I am a fourth-year student at **Belgium Campus ITversity**, with 5 years of coding experience.
-I am currently working at Pinkmatter Solutions as an Intern UI/UX Developer.
-Proficient in **Java, C#, C++, Python, JavaScript, TypeScript, HTML, CSS, SCSS, Angular**.  
+Proficient in **C++, C#, Python, JavaScript, TypeScript, HTML, CSS, SCSS, Angular, Java**.  
 Experienced in managing team projects, which has helped me develop leadership skills.  
 I have a strong work ethic and a constant drive to expand my skillset.
-My Cv can be downloaded from my personal website!!
 The next part of my Journey will be into Space Simulations using C++ and OpenGL
 
 <div align="center">
